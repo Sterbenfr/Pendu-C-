@@ -1,0 +1,14 @@
+C:\Users\pierr\source\repos\Pendu\Pendu\bin\Debug\net8.0\Pendu.exe
+C:\Users\pierr\source\repos\Pendu\Pendu\bin\Debug\net8.0\Pendu.deps.json
+C:\Users\pierr\source\repos\Pendu\Pendu\bin\Debug\net8.0\Pendu.runtimeconfig.json
+C:\Users\pierr\source\repos\Pendu\Pendu\bin\Debug\net8.0\Pendu.dll
+C:\Users\pierr\source\repos\Pendu\Pendu\bin\Debug\net8.0\Pendu.pdb
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\Pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\Pendu.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\Pendu.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\Pendu.csproj.CoreCompileInputs.cache
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\Pendu.dll
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\refint\Pendu.dll
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\Pendu.pdb
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\Pendu.genruntimeconfig.cache
+C:\Users\pierr\source\repos\Pendu\Pendu\obj\Debug\net8.0\ref\Pendu.dll
