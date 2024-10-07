@@ -1,0 +1,42 @@
+{
+  "MediaCollection": [
+    {
+      "Author": "Zampanò",
+      "Pages": 514,
+      "Title": "La Maison des Feuilles",
+      "Count": 1,
+      "Genres": [
+        4
+      ]
+    },
+    {
+      "Author": "herg\u00E9",
+      "Pages": 100,
+      "Title": "Tintin",
+      "Count": 1,
+      "Genres": [
+        0,
+        1
+      ]
+    },
+    {
+      "Director": "idk",
+      "Duration": 150,
+      "Title": "Aliens",
+      "Count": 1,
+      "Genres": [
+        3,
+        4
+      ]
+    },
+    {
+      "Director": "Dany Boon",
+      "Duration": 152,
+      "Title": "Bienvenue chez les Ch\u0027tis",
+      "Count": 1,
+      "Genres": [
+        1
+      ]
+    }
+  ]
+}

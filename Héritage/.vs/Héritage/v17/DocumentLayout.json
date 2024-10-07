@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\mediajsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\mediajsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|c:\\users\\pierr\\source\\repos\\h\u00E9ritage\\h\u00E9ritage\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF020C-39E0-41B5-AF71-08A365626F14}|H\u00E9ritage\\H\u00E9ritage.csproj|solutionrelative:h\u00E9ritage\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\MediaJsonConverter.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\MediaJsonConverter.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\MediaJsonConverter.cs",
+              "RelativeToolTip": "H\u00E9ritage\\MediaJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:30:00.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Users.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\Users.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Users.cs",
+              "RelativeToolTip": "H\u00E9ritage\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:43:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Books.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\Books.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Books.cs",
+              "RelativeToolTip": "H\u00E9ritage\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:10:28.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\DVD.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\DVD.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\DVD.cs",
+              "RelativeToolTip": "H\u00E9ritage\\DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:10:01.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Media.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\Media.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Media.cs",
+              "RelativeToolTip": "H\u00E9ritage\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:54:09.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Admin.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\Admin.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Admin.cs",
+              "RelativeToolTip": "H\u00E9ritage\\Admin.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:51:58.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Library.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\Library.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Library.cs",
+              "RelativeToolTip": "H\u00E9ritage\\Library.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswJkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:41:14.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Program.cs",
+              "RelativeDocumentMoniker": "H\u00E9ritage\\Program.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\H\u00E9ritage\\H\u00E9ritage\\Program.cs",
+              "RelativeToolTip": "H\u00E9ritage\\Program.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAowGsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:55:13.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

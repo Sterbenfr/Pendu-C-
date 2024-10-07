@@ -1,0 +1,20 @@
+[
+  {
+    "Password": "admin",
+    "Name": "admin",
+    "IsAdministrator": true,
+    "BorrowedMedia": []
+  },
+  {
+    "Password": "pass",
+    "Name": "pierre",
+    "IsAdministrator": true,
+    "BorrowedMedia": []
+  },
+  {
+    "Password": "pm",
+    "Name": "pm",
+    "IsAdministrator": true,
+    "BorrowedMedia": []
+  }
+]
